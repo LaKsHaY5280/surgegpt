@@ -14,9 +14,7 @@ function App() {
     <div className="App">
       <div className="gradient__bg">
         <Navbar />
-        grdsre d
         <Header />
-        dgdrg
       </div>
       <Brand />
       <Surgegpt />
