@@ -68,6 +68,18 @@
     margin-top: 2rem;
 }
 
+.gpt__wgpt-container .gpt__feature-container__feature {
+    flex: 1;
+    margin: 1rem;
+    min-width: 210px;
+    display: unset;
+    flex-direction: column;
+}
+
+/* Customizing feature component as per needs */
+.gpt__wgpt-container .gpt__feature-container_feature-text {
+    margin-top: 0.5rem;
+}
 @media screen and (max-width: 850px) {
     .gpt__wgpt-heading {
         flex-direction: column;
