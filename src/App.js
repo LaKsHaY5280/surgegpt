@@ -4,7 +4,7 @@ import {
   Header,
   Wgpt,
   Features,
-  Posibilities,
+  Possibility,
   Blogs,
   Footer,
 } from "./containers/index";
@@ -19,7 +19,7 @@ function App() {
       <Brand />
       <Wgpt />
       <Features />
-      <Posibilities />
+      <Possibility />
       <Cta />
       <Blogs />
       <Footer />
