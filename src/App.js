@@ -2,7 +2,7 @@ import "./App.css";
 import { Navbar, Cta, Brand } from "./components/index";
 import {
   Header,
-  Surgegpt,
+  Wgpt,
   Features,
   Posibilities,
   Blogs,
@@ -17,7 +17,7 @@ function App() {
         <Header />
       </div>
       <Brand />
-      <Surgegpt />
+      <Wgpt />
       <Features />
       <Posibilities />
       <Cta />
